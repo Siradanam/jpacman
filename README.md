@@ -2,7 +2,7 @@
 ![Build Status](https://github.com/Siradanam/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
 ![Coverage](.github/badges/jacoco.svg)
 ![Branches](.github/badges/branches.svg)
-![image](https://github.com/Siradanam/jpacman/assets/113087732/122c8109-db16-4c43-ae41-63fd330b83f4)
+
 
 ## About
 
